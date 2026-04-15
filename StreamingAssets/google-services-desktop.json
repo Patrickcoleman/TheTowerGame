@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103611848852",
+    "project_id": "thetower-9385d",
+    "storage_bucket": "thetower-9385d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103611848852:android:28a453a565047cde4a3c81",
+        "android_client_info": {
+          "package_name": "com.patrickcoleman.thetower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VA8zMM7ogcjCQi9MFxUAvyhTvqBbPA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
